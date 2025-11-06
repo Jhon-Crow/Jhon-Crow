@@ -1,5 +1,6 @@
-[![](https://www.codewars.com/users/Jhon-Crow/badges/large)](www.codewars.com/users/Jhon-Crow)
+[![](https://www.codewars.com/users/Jhon-Crow/badges/small)](https://www.codewars.com/users/Jhon-Crow)
 <br>
+
 [![](https://img.shields.io/badge/Telegram-informational?style=flat&logo=telegram&logoColor=white&color=26A5E4)](https://t.me/Shanwown) ```@Shanwown```
 <br>
 [![](https://img.shields.io/badge/Email-informational?style=flat&logo=maildotru&logoColor=white&color=005FF9)](mailto:t4t1.tati@yandex.ru) ```t4t1.tati@yandex.ru```
