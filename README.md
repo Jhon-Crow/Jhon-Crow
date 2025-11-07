@@ -6,22 +6,21 @@
 &nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Email-informational?style=flat&logo=maildotru&logoColor=white&color=005FF9)](mailto:t4t1.tati@yandex.ru) ```t4t1.tati@yandex.ru```
 <br>
 
-## &nbsp;&nbsp;GitHub Stats
+## &nbsp; GitHub Stats
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Jhon-Crow">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhon-Crow&hide=html,css&title_color=f7dda6&text_color=bf4a3d&icon_color=4AB197&bg_color=60,602d13,351D1B" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Jhon-Crow">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jhon_Crow&hide=html,css&title_color=f7dda6&text_color=bf4a3d&bg_color=0,471615,351D1B&v=2" alt="Wakatime" />
 </a>
 <br>
 <br>
 
-## &nbsp;&nbsp;&nbsp;💼 Skills
+## &nbsp;&nbsp;💼 Skills
 &nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/JavaScript-informational?logo=javascript&logoColor=black&color=F7DF1E) ![](https://img.shields.io/badge/React-informational?logo=react&logoColor=white&color=61DAFB) ![](https://img.shields.io/badge/Redux-informational?logo=redux&logoColor=white&color=764ABC) ![](https://img.shields.io/badge/Next.js-informational?logo=nextdotjs&logoColor=white&color=000000) ![](https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=white&color=3178C6)
 <br>
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Other Skills
+##### &nbsp;&nbsp;&nbsp;&nbsp; Other Skills
 &nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/React_Router-informational?style=flat&logo=reactrouter&logoColor=white&color=CA4245) ![](https://img.shields.io/badge/Prisma-informational?style=flat&logo=prisma&logoColor=white&color=2D3748) ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css&logoColor=white&color=663399) ![](https://img.shields.io/badge/Storybook-informational?style=flat&logo=storybook&logoColor=white&color=FF4785) ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=181717) ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=F05032) ![](https://img.shields.io/badge/Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=06B6D4) ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=CC6699)
 
