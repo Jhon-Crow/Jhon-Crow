@@ -23,4 +23,7 @@
 <br>
 ##### &nbsp;&nbsp;&nbsp;&nbsp; Other Skills
 &nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/React_Router-informational?style=flat&logo=reactrouter&logoColor=white&color=CA4245) ![](https://img.shields.io/badge/Prisma-informational?style=flat&logo=prisma&logoColor=white&color=2D3748) ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css&logoColor=white&color=663399) ![](https://img.shields.io/badge/Storybook-informational?style=flat&logo=storybook&logoColor=white&color=FF4785) ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=181717) ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=F05032) ![](https://img.shields.io/badge/Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=06B6D4) ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=CC6699)
+<br>
+<br>
 
+<img align="right" style="margin:0.5rem" src="https://visitor-badge.laobi.icu/badge?page_id=Jhon-Crow.visitor-badge&left_color=&right_color=" alt="Visitor-badge" />
